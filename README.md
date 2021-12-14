@@ -1,6 +1,6 @@
 # Basic-Programming
 
-In this module you will learn Basic Programming skillset that is required to complete the rest of your modules.
+In this module you will learn basic programming skillset that is required to complete the rest of your modules.
 
 ---
 
