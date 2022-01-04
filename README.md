@@ -1,4 +1,4 @@
-# Basic-Programming
+# Level 0 - Basic Programming
 
 In this module you will learn basic programming skillset that is required to complete the rest of your modules.
 
