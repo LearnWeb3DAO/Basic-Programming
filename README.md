@@ -16,7 +16,7 @@ Frontend is the interface with which an user interacts. On the web, the frontend
 
 ### Backends
 
-The backend refers to that part of a software that alows it to operate and cannot be (necessarily) accessed by the user directly. Most private data, user data, business logic, data processing, etc happens on the backend, whereas the frontend is just used to offer a visual representation of that data and allow the user to perform certain tasks with it. The backend receives requests from the clients, and contains the logic to send the appropriate data back to the client. Backend services can be written in a variety of programming languages - Python, Java, Javascript, Go, Rust, etc. 
+The backend refers to that part of a software that allows it to operate and cannot be (necessarily) accessed by the user directly. Most private data, user data, business logic, data processing, etc happens on the backend, whereas the frontend is just used to offer a visual representation of that data and allow the user to perform certain tasks with it. The backend receives requests from the clients, and contains the logic to send the appropriate data back to the client. Backend services can be written in a variety of programming languages - Python, Java, Javascript, Go, Rust, etc. 
 
 On the web, frontend websites typically send requests over the internet through HTTP to a backend server, asking for certain data or asking it to perform a certain task, and the backend registers the request and sends a response back. For the purposes of this course, we will be developing our backends in Javascript as well, to be able to reuse code and share knowledge between the frontend and backend. 
 
