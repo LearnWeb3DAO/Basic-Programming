@@ -49,3 +49,5 @@ Before you move on to the actual web3 specific content, please ensure you have s
 - React
 
 You can learn them in parallel if you want to, but having background knowledge will definitely help! Especially as you continue on tracks beyond Freshman.
+
+<SubmitQuiz />
