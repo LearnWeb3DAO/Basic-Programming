@@ -18,6 +18,8 @@ Frontend is the interface with which an user interacts. On the web, the frontend
 - [Learn Javascript for Free](https://scrimba.com/learn/learnjavascript)
 - [Learn React for Free](https://scrimba.com/learn/learnreact)
 
+<Quiz questionId="dbc54842-ed1f-4a60-b785-8665cfefe3dd" />
+
 ---
 
 ### Backend Technologies
@@ -26,11 +28,16 @@ The backend refers to that part of a software that allows it to operate and cann
 
 On the web, frontend websites typically send requests over the internet through HTTP to a backend server, asking for certain data or asking it to perform a certain task, and the backend registers the request and sends a response back. For the purposes of this course, we will be developing our backends in Javascript as well, to be able to reuse code and share knowledge between the frontend and backend. 
 
+<Quiz questionId="cb8b9657-9a2b-492f-86e8-a733db9bf76a" />
+
 Required Readings:
 
 - [What is a backend?](https://www.codecademy.com/article/back-end-architecture)
 - [Building an API with Node.js and Express](https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express)
 - [Building an API connected to a database in Node.js](https://www.freecodecamp.org/learn/back-end-development-and-apis/#back-end-development-and-apis-projects)
+
+<Quiz questionId="ef930223-67d6-4f84-be69-e1888c4a6550" />
+<Quiz questionId="5efe7813-a9ce-4854-90cd-c0c596633308" />
 
 ---
 
