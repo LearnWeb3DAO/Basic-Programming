@@ -2,17 +2,17 @@
 
 ### Introduction
 
-To get started building apps in Web3, we need some background knowledge of Web2. There are a lot of topics that are certainly covered within web2 that are highly useful in Web3. 
+Pour commencer à créer des applications dans Web3, nous avons besoin d'une certaine connaissance de base de Web2. Il y a beaucoup de sujets qui sont certainement couverts dans Web2 et qui sont très utiles dans Web3. 
 
-For example, if you make a smart contract, you still need to provide your users a way to interact with that smart contract. You can do this by building a website or application that allows the user to interface with the smart contract in an easy manner. 
+Par exemple, si vous créez un contrat intelligent, vous devez encore fournir à vos utilisateurs un moyen d'interagir avec ce contrat intelligent. Vous pouvez le faire en créant un site Web ou une application qui permet à l'utilisateur d'interagir avec le contrat intelligent de manière simple. 
 
-Additionally, you may also want to store some user data or other data outside the smart contract. These concepts are the exact same as Web2, the only thing that changes is that we will be using and interfacing with a smart contract in the background.
+En outre, vous pouvez également souhaiter stocker certaines données utilisateur ou d'autres données en dehors du contrat intelligent. Ces concepts sont exactement les mêmes que ceux de Web2, la seule chose qui change est que nous utiliserons et interagirons avec un contrat intelligent en arrière-plan.
 
 ---
 
 ### Frontend Technologies
 
-Frontend is the interface with which an user interacts. On the web, the frontend refers to a website you can browse around. Mobile apps, and desktop apps, are also examples of valid frontend interfaces. For the purposes of this course, we will focus on the web, and develop frontend interfaces using web technologies such as HTML, CSS, and Javascript.
+Le frontend est l'interface avec laquelle un utilisateur interagit. Sur le web, le frontend fait référence à un site web sur lequel vous pouvez naviguer. Les applications mobiles et les applications de bureau sont également des exemples d'interfaces frontales valides. Dans le cadre de ce cours, nous nous concentrerons sur le Web et développerons des interfaces frontales à l'aide de technologies Web telles que HTML, CSS et Javascript.
 
 - [Frontend Development Essentials](https://betterprogramming.pub/frontend-development-the-essentials-1c1290b43590)
 - [Learn Javascript for Free](https://scrimba.com/learn/learnjavascript)
@@ -24,9 +24,9 @@ Frontend is the interface with which an user interacts. On the web, the frontend
 
 ### Backend Technologies
 
-The backend refers to that part of a software that allows it to operate and cannot be (necessarily) accessed by the user directly. Most private data, user data, business logic, data processing, etc happens on the backend, whereas the frontend is just used to offer a visual representation of that data and allow the user to perform certain tasks with it. The backend receives requests from the clients, and contains the logic to send the appropriate data back to the client. Backend services can be written in a variety of programming languages - Python, Java, Javascript, Go, Rust, etc. 
+Le backend désigne la partie d'un logiciel qui lui permet de fonctionner et à laquelle l'utilisateur ne peut pas (nécessairement) accéder directement. La plupart des données privées, des données utilisateur, de la logique d'entreprise, du traitement des données, etc. se trouvent dans le backend, tandis que le frontend sert uniquement à offrir une représentation visuelle de ces données et à permettre à l'utilisateur d'effectuer certaines tâches avec elles. Le backend reçoit les demandes des clients et contient la logique nécessaire pour renvoyer les données appropriées au client. Les services backend peuvent être écrits dans une variété de langages de programmation - Python, Java, Javascript, Go, Rust, etc. 
 
-On the web, frontend websites typically send requests over the internet through HTTP to a backend server, asking for certain data or asking it to perform a certain task, and the backend registers the request and sends a response back. For the purposes of this course, we will be developing our backends in Javascript as well, to be able to reuse code and share knowledge between the frontend and backend. 
+Sur le Web, les sites Web frontaux envoient généralement des requêtes sur Internet via HTTP à un serveur backend, lui demandant certaines données ou lui demandant d'effectuer une certaine tâche, et le backend enregistre la requête et renvoie une réponse. Dans le cadre de ce cours, nous développerons nos backends en Javascript également, afin de pouvoir réutiliser le code et partager les connaissances entre le frontend et le backend.  
 
 <Quiz questionId="cb8b9657-9a2b-492f-86e8-a733db9bf76a" />
 
@@ -41,13 +41,13 @@ Required Readings:
 
 ---
 
-Before you move on to the actual web3 specific content, please ensure you have some familiarity with the following:
+Avant de passer au contenu spécifique de web3, assurez-vous d'être familiarisé avec les éléments suivants :
 - HTML
 - CSS
 - Javascript
 - Node.js
 - React
 
-You can learn them in parallel if you want to, but having background knowledge will definitely help! Especially as you continue on tracks beyond Freshman.
+Vous pouvez les apprendre en parallèle si vous le souhaitez, mais avoir des connaissances de base vous aidera certainement ! Surtout si vous poursuivez vos études au-delà de Freshman.
 
 <SubmitQuiz />
