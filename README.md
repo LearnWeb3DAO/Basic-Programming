@@ -6,7 +6,7 @@ To get started building apps in Web3, we need some background knowledge of Web2.
 
 For example, if you make a smart contract, you still need to provide your users a way to interact with that smart contract. You can do this by building a website or application that allows the user to interact with the smart contract in an easy manner.
 
-Additionally, you may also want to store some user data or other data outside the smart contract. These concepts are the exact same as Web2, the only thing that changes is that we will be using and interfacing with a smart contract in the background.
+Additionally, you may also want to store some user data or other data outside the smart contract. These concepts are the exact same as Web2, the only thing that changes is that we will be using and interacting with a smart contract in the background.
 
 ---
 
